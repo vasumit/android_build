@@ -44,4 +44,10 @@ echo "ro.build.characteristics=$TARGET_AAPT_CHARACTERISTICS"
 
 echo "ro.cm.device=$CM_DEVICE"
 
+echo "otaupdater.otaid=$otaupdater_otaid"
+echo "otaupdater.otatime=$otaupdater_otatime"
+echo "otaupdater.otaver=$otaupdater_otaver"
+
+echo "otaupdater.noflash=$otaupdater_noflash"
+
 echo "# end build properties"
