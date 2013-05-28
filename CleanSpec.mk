@@ -158,7 +158,6 @@ $(call add-clean-step, rm -rf $(PRODUCT_OUT)/obj/SHARED_LIBRARIES)
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/obj/EXECUTABLES)
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/obj/lib/*.o)
 
-
 # ************************************************
 # NEWER CLEAN STEPS MUST BE AT THE END OF THE LIST
 # ************************************************
