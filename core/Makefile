@@ -168,7 +168,7 @@ endef
 
 otaupdater_otaid :=crDroid
 otaupdater_otatime := $(shell date +%Y%m%d-%H%M)
-otaupdater_otaver := 0.8
+otaupdater_otaver := AOSP
 
 otaupdater_noflash := 1
 
